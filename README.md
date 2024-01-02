@@ -1,4 +1,5 @@
-## Hey, I'm Victor Davidsom! 👋
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/vctrdavidsom/vctrdavidsom/blob/main/img/capaa.png" />
+&nbsp;&nbsp;&nbsp;
 
 ### About Me 📜
 
