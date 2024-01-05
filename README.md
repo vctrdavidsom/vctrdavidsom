@@ -23,6 +23,12 @@ Software Engineering student looking for exciting challenges and learning opport
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
+## My Projects
+<div>
+  <a href="https://vctrdavidsom.github.io/Assist-PokerPro/" target="_blank"><img src="https://img.shields.io/badge/-Assist%20Poker%20Pro-%231a702a?style=for-the-badge&logo=poker&logoColor=white">
+</a>
+</div>
+
 ## Contacts:
 
 <div> 
