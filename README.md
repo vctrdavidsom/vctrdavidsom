@@ -18,6 +18,7 @@ Software Engineering student looking for exciting challenges and learning opport
 
 #### Frameworks:
 ![Angular](https://img.shields.io/badge/-angular-%23f70b0b?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-djando-%231a702a?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
